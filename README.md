@@ -1,5 +1,8 @@
-# Aircraft Tracking with YOLO
+# Aiplane Tracking with YOLO
+## Demo Video
+Check out the demo video of the project:
 
+![Aircraft Tracking Demo](demo_video.mp4)
 ## Installation Guide
 
 ### Step 1: Download and Install Miniconda
