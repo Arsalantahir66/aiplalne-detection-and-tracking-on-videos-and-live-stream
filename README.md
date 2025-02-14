@@ -2,7 +2,7 @@
 ## Demo Video
 Check out the demo video of the project:
 
-![Aircraft Tracking Demo](demo_video.mp4)
+![Aircraft Tracking Demo](demo.mp4)
 ## Installation Guide
 
 ### Step 1: Download and Install Miniconda
@@ -23,7 +23,11 @@ conda activate myenv
 ```sh
 pip install ultralytics
 ```
-
+### Step 5: clone this repository
+```sh
+git clone https://github.com/YOUR_USERNAME/ships_detection_in_satellite_imagery.git  
+cd 
+```
 ## Running the Tracker
 
 ### Run on Camera
