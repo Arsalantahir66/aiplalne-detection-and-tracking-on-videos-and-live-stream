@@ -1,12 +1,12 @@
 # Aiplane Tracking with YOLOv8
-## Demo Video
-#![demo](demo.mp4)
+
 ## Video Demonstration
 
 <video width="560" height="315" controls>
   <source src="demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ## Installation Guide
 
 ### Step 1: Download and Install Miniconda
