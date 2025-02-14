@@ -1,8 +1,10 @@
-# Aiplane Tracking with YOLO
+# Aiplane Tracking with YOLOv8
 ## Demo Video
-Check out the demo video of the project:
+<video width="600" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-![Aircraft Tracking Demo](demo.mp4)
 ## Installation Guide
 
 ### Step 1: Download and Install Miniconda
