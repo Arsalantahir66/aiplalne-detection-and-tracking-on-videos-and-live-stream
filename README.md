@@ -1,6 +1,6 @@
 # Aiplane Tracking with YOLOv8
 ## Demo Video
-!(demo.mp4)
+![demo](demo.mp4)
 
 ## Installation Guide
 
